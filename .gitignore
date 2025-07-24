@@ -1,0 +1,18 @@
+# Maven/Gradle build output
+target/
+build/
+
+# IntelliJ IDEA / Eclipse / VS Code project files
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
